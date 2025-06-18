@@ -32,6 +32,8 @@ It is ideal for showcasing skills in:
 
 ## EDA Approach (Highlights)
 
+Here is the link to the notebook: [notebook](notebook/retail_eda.ipynb)
+
 ### 1. Introduction  
 Framing the retail setting and laying out the objectives of this analysis.
 
