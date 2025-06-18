@@ -30,7 +30,7 @@ It is ideal for showcasing skills in:
 - Deliver **business-ready insights** for strategic decisions
 
 
-## 🔍 EDA Approach (Highlights)
+## EDA Approach (Highlights)
 
 ### 1. Introduction  
 Framing the retail setting and laying out the objectives of this analysis.
@@ -57,13 +57,13 @@ Checking duplicates, fixing types, and preparing features (e.g., extracting Mont
 7. What insights can be gleaned from the distribution of product prices within each category?
 
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python
 - pandas, matplotlib, seaborn
 - Jupyter Notebook
 
-## 💻 Environment Setup
+## Environment Setup
 
 To replicate this project:
 
